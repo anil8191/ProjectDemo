@@ -1,0 +1,17 @@
+2018-12-07 16:43:36 INFO  DarkSkyAPIDemo:44 - ------------- Execution started --------------- 
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:60 - Status code : 200
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:66 - Latitude : 37.8267
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:70 - Longitude : -122.4233
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:74 - Timezone : America/Los_Angeles
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:78 - Offset : -8
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:88 - Currently Summary : Clear
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:94 - Minutely Summary : Clear for the hour.
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:100 - Size of the Minutely data arrays : 61
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:105 - Hourly Summary : Partly cloudy starting tomorrow morning, continuing until tomorrow afternoon.
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:111 - Size of the hourly data arrays : 49
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:116 - Daily Summary : Rain next Friday, with high temperatures falling to 55°F next Friday.
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:122 - Size of the hourly data arrays : 8
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:128 - Title : Beach Hazards Statement
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:135 - Nearest-Station : 1.839
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:140 - Units : us
+2018-12-07 16:43:40 INFO  DarkSkyAPIDemo:150 - -------------- Execution finished ---------------------
