@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RestAssuredAPITesting.iml" filepath="$PROJECT_DIR$/RestAssuredAPITesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/..//Scale-Up_Vision_Framework_Idea/automated-tests-master/iat-admin-api-tests/iat-admin-api-tests.iml" filepath="$PROJECT_DIR$/..//Scale-Up_Vision_Framework_Idea/automated-tests-master/iat-admin-api-tests/iat-admin-api-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scale-Up_Vision_Framework_Idea/automated-tests-master/iat-admin-ui-tests/iat-admin-ui-tests.iml" filepath="$PROJECT_DIR$/../Scale-Up_Vision_Framework_Idea/automated-tests-master/iat-admin-ui-tests/iat-admin-ui-tests.iml" />
+    </modules>
+  </component>
+</project>
